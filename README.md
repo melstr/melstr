@@ -14,7 +14,7 @@ You can contact me via email: ales.meleshkin@gmail.com
 - IntelliJ IDEA
 
 
-### If you are a potential employer, you should check out some of Java-Spring pet project of mine:
+### If you are a potential employer, you should check out some of Java-Spring pet projects of mine:
 - https://github.com/melstr/TaskTracking
 - https://github.com/melstr/WebPageWordsCounter
 - https://github.com/melstr/SpringPlaceAndEvents
