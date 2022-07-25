@@ -20,7 +20,7 @@ You can contact me via email: ales.meleshkin@gmail.com
 - https://github.com/melstr/SpringPlaceAndEvents
 
 ## About me
-I've studied in Ogarev Mordovian State University (Software Engineer bachelor). Not really great place for study tbh, but I had crazy amount of freedom of ideas that
+I've studied in Ogarev Mordovian State University (Software Engineer bachelor). I had crazy amount of freedom with ideas that
 I could implement in there.
 
 During my study I've tryed and learnt many technologies and knowlege in classes and additional courses. Such as:
