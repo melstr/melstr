@@ -1,6 +1,6 @@
 ## Hi, I’m Alexandr Meleshkin 👋. 23 y.o.
 
-Looking for a job as Java Junior backend developer
+Looking for a job as a Java Junior backend developer
 
 You can contact me via email: ales.meleshkin@gmail.com
 
@@ -40,5 +40,5 @@ on Chord Recognition problem.
 
 Unfortunately, I've found out that I stopped developing my skills there, and I decided to abandon the idea of finishing my master degree in university.
 
-Now I'm studying Java Backend stack (1 year) and moving to Saint Petersburg in the hope of finding a job as Java Backend developer.
+Now I'm studying Java Backend stack (1 year) and moving to Saint Petersburg in the hope of finding a job as a Java Backend developer.
 
