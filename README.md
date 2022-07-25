@@ -7,7 +7,7 @@ You can contact me via email: ales.meleshkin@gmail.com
 ### My main technological stack is:
 - Java 11
 - Spring Boot (MVC, Data, Security, Test), Hibernate, Junit, Mockito
-- Maven, MapStruct, Open Api (Swagger), query-dsl, Lombok, Liquibase
+- Maven, MapStruct, Open Api (Swagger), JavaDoc, query-dsl, Lombok, Liquibase
 - PostgreSQL, MySQL
 - Docker, Linux, Git
 - HTTP, REST
