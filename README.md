@@ -33,7 +33,7 @@ During my study I've tryed and learnt many technologies and knowlege on classes 
 As for my hobby, I like playing and researching music. In my senior years of university I was interested in digital audio processing. I've tryed to solve one of
 the music beginners' problems - searching for the chords of a song.
 
-## So, I'd made a Chord Recognition program on Python: https://github.com/melstr/ChordRecognition
+**So, I'd made a Chord Recognition program on Python: https://github.com/melstr/ChordRecognition**!!!
 
 Also, I'd applied as a master in the same university, wrote and published an [article](http://journal.mrsu.ru/wp-content/uploads/2021/11/10.-statyafirsovameleshkin.pdf) (Russian) 
 on Chord Recognition problem. 
