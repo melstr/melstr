@@ -20,26 +20,26 @@ You can contact me via email: ales.meleshkin@gmail.com
 - https://github.com/melstr/SpringPlaceAndEvents
 
 ## About me
-I've studied in Ogarev Mordovian State University (Software Engineer bachelor). I had crazy amount of freedom with ideas that
+I studied in Ogarev Mordovian State University (Software Engineer bachelor). I had crazy amount of freedom with ideas that
 I could implement in there.
 
-During my study I've tryed and learnt many technologies and knowlege in classes and additional courses. Such as:
+During my study I'd tryed and learnt many technologies and knowlege in classes and additional courses. Such as:
 - Php, SQL, C++, C#, Python, Matlab
 - HTML, JavaScript, CSS
 - Project Management frameworks
-- Math, algorithms and data structures
+- Maths, algorithms and data structures
 - Network topologies
 - and many more...
 
-As for my hobby, I like playing and researching music. In my senior years of university I was interested in digital audio processing. I've tryed to solve one of
+As for my hobby, I like playing and analyze music. In my senior years of university I was interested in digital audio processing. I've tryed to solve one of
 the music beginners' problems - searching for the chords of a song.
 
-**So, I'd made a Chord Recognition program on Python: https://github.com/melstr/ChordRecognition**!!!
+**So, I'd made a Chord Recognition program on Python: https://github.com/melstr/ChordRecognition**.
 
-Also, I'd applied as a master in the same university, wrote and published an [article](http://journal.mrsu.ru/wp-content/uploads/2021/11/10.-statyafirsovameleshkin.pdf) (Russian) 
+Also, I'd entered master's program in the same university, written and published an [article](http://journal.mrsu.ru/wp-content/uploads/2021/11/10.-statyafirsovameleshkin.pdf) (Russian) 
 on Chord Recognition problem. 
 
-Unfortunately, I've found out that I stopped developing my skills there, and I decided to abandon the idea of finishing my master degree in university.
+Unfortunately, I'd found out that I stopped developing my skills there, and I'd decided to abandon the idea of finishing my master's degree in university.
 
-Now I'm studying Java Backend stack (1 year) and moving to Saint Petersburg in the hope of finding a job as a Java Backend developer.
+Now I study Java Backend stack (for 1 year+) and move to Saint Petersburg in the hope of finding a job as a Java Backend developer.
 
