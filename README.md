@@ -36,7 +36,7 @@ the music beginners' problems - searching for the chords of a song.
 
 **So, I'd made a Chord Recognition program on Python: https://github.com/melstr/ChordRecognition**.
 
-Also, I'd entered master's program in the same university, written and published an [article](http://journal.mrsu.ru/wp-content/uploads/2021/11/10.-statyafirsovameleshkin.pdf) (Russian) 
+Also, I'd entered master's program in the same university, written and published an [article](https://github.com/melstr/ChordRecognition/blob/main/article.pdf) (Russian) 
 on Chord Recognition problem. 
 
 Unfortunately, I'd found out that I stopped developing my skills there, and I'd decided to abandon the idea of finishing my master's degree in university.
