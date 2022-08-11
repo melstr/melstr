@@ -41,5 +41,5 @@ on Chord Recognition problem.
 
 Unfortunately, I'd found out that I stopped developing my skills there, and I'd decided to abandon the idea of finishing my master's degree in university.
 
-Now I study Java Backend stack (for 1 year+) and move to Saint Petersburg in the hope of finding a job as a Java Backend developer.
+Now I study Java Backend stack (for 1 year+) and I've already moved to Saint Petersburg in the hope of finding a job as a Java Backend developer.
 
