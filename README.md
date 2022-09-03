@@ -1,6 +1,6 @@
 ## Hi, I’m Alexandr Meleshkin 👋. 23 y.o.
 
-Looking for a job as a Java Junior backend developer
+Java Junior backend developer
 
 You can contact me via email: ales.meleshkin@gmail.com
 
@@ -14,7 +14,7 @@ You can contact me via email: ales.meleshkin@gmail.com
 - IntelliJ IDEA
 
 
-### If you are a potential employer, you should check out some of Java-Spring pet projects of mine:
+###Some of Java-Spring pet projects of mine:
 - https://github.com/melstr/TaskTracking
 - https://github.com/melstr/WebPageWordsCounter
 - https://github.com/melstr/SpringPlaceAndEvents
@@ -38,8 +38,4 @@ the music beginners' problems - searching for the chords of a song.
 
 Also, I'd entered master's program in the same university, written and published an [article](https://github.com/melstr/ChordRecognition/blob/main/article.pdf) (Russian) 
 on Chord Recognition problem. 
-
-Unfortunately, I'd found out that I stopped developing my skills there, and I'd decided to abandon the idea of finishing my master's degree in university.
-
-Now I study Java Backend stack (for 1 year+) and I've already moved to Saint Petersburg in the hope of finding a job as a Java Backend developer.
 
