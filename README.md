@@ -1,4 +1,4 @@
-## Hi, I’m Alexandr Meleshkin 👋. 23 y.o.
+## Hi, I’m Alexandr Meleshkin 👋. 25 y.o.
 
 Java Junior backend developer
 
